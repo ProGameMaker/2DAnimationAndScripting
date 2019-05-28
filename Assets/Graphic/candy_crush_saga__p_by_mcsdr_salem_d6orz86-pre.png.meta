@@ -1,0 +1,2030 @@
+fileFormatVersion: 2
+guid: 89c993567afe2429a98e33930c183143
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9132509976031678302
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_0
+  - first:
+      213: 4618107506747529617
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_1
+  - first:
+      213: -3196064260597167761
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_2
+  - first:
+      213: -4422235446543090360
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_3
+  - first:
+      213: 3577235025698587741
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_4
+  - first:
+      213: 2989535865197498347
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_5
+  - first:
+      213: 2722930423231916910
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_6
+  - first:
+      213: -5142057866107049334
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_7
+  - first:
+      213: 755870015050919373
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_8
+  - first:
+      213: 4216135088503863303
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_9
+  - first:
+      213: 5449240709621732918
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_10
+  - first:
+      213: 9062787403352009993
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_11
+  - first:
+      213: -2547991039779517153
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_12
+  - first:
+      213: -4876968708518814656
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_13
+  - first:
+      213: 2398828232509992060
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_14
+  - first:
+      213: 7884916417725813519
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_15
+  - first:
+      213: -3787322837019580950
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_16
+  - first:
+      213: 5452852560966413263
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_17
+  - first:
+      213: 3577057468185133485
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_18
+  - first:
+      213: -7153146973229685758
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_19
+  - first:
+      213: -3089140185883000500
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_20
+  - first:
+      213: -8671998777846813309
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_21
+  - first:
+      213: -4055089467260397557
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_22
+  - first:
+      213: -6253184358029987470
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_23
+  - first:
+      213: 2843171025927170669
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_24
+  - first:
+      213: -284094009265336346
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_25
+  - first:
+      213: 602276062681096072
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_26
+  - first:
+      213: 5161166597090408633
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_27
+  - first:
+      213: 2971105105359636506
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_28
+  - first:
+      213: -1997308811706189456
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_29
+  - first:
+      213: -1530375790906049177
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_30
+  - first:
+      213: 1313509291700333222
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_31
+  - first:
+      213: 4433104495452304628
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_32
+  - first:
+      213: -5191686648471556741
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_33
+  - first:
+      213: 4204800990948336365
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_34
+  - first:
+      213: -6873356567462467007
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_35
+  - first:
+      213: -4331946765892434058
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_36
+  - first:
+      213: 4525778752204760013
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_37
+  - first:
+      213: -7417109764613443428
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_38
+  - first:
+      213: 7932862922434382125
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_39
+  - first:
+      213: -8064488133242613760
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_40
+  - first:
+      213: -5939775013429274783
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_41
+  - first:
+      213: -5607781046693618900
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_42
+  - first:
+      213: -1279331188549651661
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_43
+  - first:
+      213: -4317342790278317926
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_44
+  - first:
+      213: -7823306414097923962
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_45
+  - first:
+      213: -4285538577986749391
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_46
+  - first:
+      213: 4635739855444993857
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_47
+  - first:
+      213: 3012899101510885535
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_48
+  - first:
+      213: 3392348781581838883
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_49
+  - first:
+      213: -724477302686438646
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_50
+  - first:
+      213: 3181794058116396664
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_51
+  - first:
+      213: 4469517982436348287
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_52
+  - first:
+      213: 5158759022374481148
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_53
+  - first:
+      213: -6804655681969708309
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_54
+  - first:
+      213: 2253983224685674394
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_55
+  - first:
+      213: -4718731962353601501
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_56
+  - first:
+      213: -7457055798116231784
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_57
+  - first:
+      213: 7070411963054898821
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_58
+  - first:
+      213: 4660843858901152637
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_59
+  - first:
+      213: -1261022706137219171
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_60
+  - first:
+      213: 8702159866118905710
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_61
+  - first:
+      213: -5626184515797515373
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_62
+  - first:
+      213: 3759688685453342574
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_63
+  - first:
+      213: -4982788328567620349
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_64
+  - first:
+      213: 8454733665077765822
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_65
+  - first:
+      213: 6205095786646170265
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_66
+  - first:
+      213: 4560824998036567735
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_67
+  - first:
+      213: 383074540849444530
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_68
+  - first:
+      213: -7632905487039171425
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_69
+  - first:
+      213: -4375545694536117426
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_70
+  - first:
+      213: -5336737672592591518
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_71
+  - first:
+      213: -7056232676230117577
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_72
+  - first:
+      213: 6682290186396365000
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_73
+  - first:
+      213: 2350950205097075562
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_74
+  - first:
+      213: 6687307132558334300
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_75
+  - first:
+      213: 92849861791998560
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_76
+  - first:
+      213: 2737853780408994684
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_77
+  - first:
+      213: 890566715540142934
+    second: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_78
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1222
+        width: 565
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d8b7a9eddee4ce3aeed3f94368a34d
+      internalID: -9132509976031678302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1148
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0035d062cf99e4e69af0872403bfa73c
+      internalID: 4618107506747529617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1146
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e9e4e447d2143caaa3de5093c83a7e
+      internalID: -3196064260597167761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1147
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd404bd9c49bf47a5b6d0f0b921dabbb
+      internalID: -4422235446543090360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_4
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1146
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a69210e959c45c69d39c92ad9ae597
+      internalID: 3577235025698587741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_5
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1147
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43366eb0219fc4d89b4cb5047491c97c
+      internalID: 2989535865197498347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_6
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1147
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be25bc47e62d64884ad55c997b3d980e
+      internalID: 2722930423231916910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1051
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b7dcb4812284afe824aef0e4c2b6fa
+      internalID: -5142057866107049334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1050
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54146a6c623f14c5cbff9f80fa8918bd
+      internalID: 755870015050919373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1050
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd76b158a40fb4d7c8c37270b26e5611
+      internalID: 4216135088503863303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_10
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1050
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f227b192cc4024176bfa7833a0038f70
+      internalID: 5449240709621732918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_11
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1052
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2baf218327343f480e88c6c1a6af1d
+      internalID: 9062787403352009993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_12
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1051
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8366e3c4b0e644536bb71c6c1e095bd8
+      internalID: -2547991039779517153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 960
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ac537dc6e8d4bab92482361a10e04b
+      internalID: -4876968708518814656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_14
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 958
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58ba294e92b6474c9e33a4d3b6e9618
+      internalID: 2398828232509992060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 958
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d642b95dc8d4fdab4e08809356398a
+      internalID: 7884916417725813519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_16
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 958
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9d8fc9bcdc64367bc706c1cfca3675
+      internalID: -3787322837019580950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_17
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 959
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4857110300c4920b60b56a244c3df9
+      internalID: 5452852560966413263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_18
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 959
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75044945f247543d4a8e117ea3b692e8
+      internalID: 3577057468185133485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 865
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1a4b15aa01f4d388669f304fd69c97
+      internalID: -7153146973229685758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_20
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 865
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b3e63543b884f72bd455e79cedf5dd
+      internalID: -3089140185883000500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 864
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456c01404bb7c440385360a00b2e3c78
+      internalID: -8671998777846813309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 863
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d467b7408320455dacebb4e21e2547b
+      internalID: -4055089467260397557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_23
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 864
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e9973adaf354a339e1c17cbec81bf4
+      internalID: -6253184358029987470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_24
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 864
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc08beae37d274d808634838f01133ca
+      internalID: 2843171025927170669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_25
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 772
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81a75344307940eda32128cabadefb3
+      internalID: -284094009265336346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 772
+        width: 70
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00455f26898a247bf81f0cffe3f33aca
+      internalID: 602276062681096072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_27
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 772
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cff60a00e9f04745b355ce10ea663bf
+      internalID: 5161166597090408633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_28
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 772
+        width: 70
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8782a99daa2c42c0ab8f149b3367455
+      internalID: 2971105105359636506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_29
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 773
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68ee378dcab14463895a3bfef26cd85
+      internalID: -1997308811706189456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_30
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 773
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8c8401f8aab4c85b9674407af9b161
+      internalID: -1530375790906049177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_31
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 675
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2e13c8521214445ad1d73653695e84
+      internalID: 1313509291700333222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_32
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 676
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d6254845f934223a9c14bd2fd4945b
+      internalID: 4433104495452304628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 676
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be31b8cc6ffe4f248b2bf6f0325e659
+      internalID: -5191686648471556741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_34
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 676
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c0779580e9c44d4a8f37bd15461432
+      internalID: 4204800990948336365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_35
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 676
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7745c8cc50d61442d84cf127c654c65f
+      internalID: -6873356567462467007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_36
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 676
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5b1c2c421534fe785ddb757efd675e
+      internalID: -4331946765892434058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_37
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 582
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e9e93951f26415297fcf1f7f35f17a
+      internalID: 4525778752204760013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_38
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 581
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952ee31335ac5477f864acf0fc2813e6
+      internalID: -7417109764613443428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_39
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 581
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a053df535df476c94140c44105a9fd
+      internalID: 7932862922434382125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_40
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 581
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf580b36c21345c882cae48c909f7b6
+      internalID: -8064488133242613760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_41
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 581
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06d5e19461fc4cf7bbb4e369f3de2c0
+      internalID: -5939775013429274783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_42
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 581
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011edabfbe440458ab10e67052569d6e
+      internalID: -5607781046693618900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_43
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 482
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab59cc9a8e2b408f87212490e06b2f4
+      internalID: -1279331188549651661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_44
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 483
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcead108aba7e4530b05fd6e87f42f1c
+      internalID: -4317342790278317926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_45
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 483
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15b7880a163d4b5f9143f5bd445819b
+      internalID: -7823306414097923962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_46
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 483
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f7d0ff602814844b59cf0de8d61ed7
+      internalID: -4285538577986749391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_47
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 483
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544b16633e43941a080b49cf5822e750
+      internalID: 4635739855444993857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_48
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 483
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd165e4580bea4d49b9929c6453d1e7f
+      internalID: 3012899101510885535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_49
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 393
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7123fb3e81d64c158b44ae9d92d9642
+      internalID: 3392348781581838883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_50
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 394
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8d29fb512194f4cb33b55dd2583615
+      internalID: -724477302686438646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_51
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 394
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054840119a8ff452fbac0bc9387c1024
+      internalID: 3181794058116396664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_52
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 394
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5df263cbedb454db3a607b7d4d1a7d
+      internalID: 4469517982436348287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_53
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 394
+        width: 74
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51108730d7a9048cb885c4ccc3ad926f
+      internalID: 5158759022374481148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_54
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 394
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac0af419c1b74a94ad7c8c8262ec3d2
+      internalID: -6804655681969708309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 298
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e4fa00d4551433287122f8cdb43a69
+      internalID: 2253983224685674394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_56
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 298
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2418a87a6324b25adcf5bc70c08870
+      internalID: -4718731962353601501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_57
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 298
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85c16f31ae504229b7b373a87fab36c
+      internalID: -7457055798116231784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_58
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 299
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e22f37fd24847d78a39c8d883cca22
+      internalID: 7070411963054898821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_59
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 299
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e4e7edc5c364b2881f0ae8c1962a58
+      internalID: 4660843858901152637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_60
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 299
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821b44cb979d24829a34298cd775a8db
+      internalID: -1261022706137219171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_61
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 204
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b6092805da74174aaa6bd20454f8eb
+      internalID: 8702159866118905710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_62
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 203
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195a815c99c024c2a80b1cd676ef631c
+      internalID: -5626184515797515373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_63
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 203
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa57fae740dd6416789205579a5e49a0
+      internalID: 3759688685453342574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_64
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 203
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2475a366434649ba8c1220135f53337
+      internalID: -4982788328567620349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_65
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 204
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd558bbc056e48458db78e582c7beb8
+      internalID: 8454733665077765822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_66
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 204
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990974205039c492bb8ef0c5e06f803e
+      internalID: 6205095786646170265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_67
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 112
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6ab49ee37ba47028bfed19a75ced0b
+      internalID: 4560824998036567735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_68
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 112
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0401dbacc8dc547769ddd7f703a59daf
+      internalID: 383074540849444530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_69
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 111
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c03b4849426c44dcae3596f2db0ebf7
+      internalID: -7632905487039171425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_70
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 111
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e78d733affa4404ac1dd0aac50cdbc
+      internalID: -4375545694536117426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_71
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 111
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb1dc5c1fb3840bfbd72ea563b6b692
+      internalID: -5336737672592591518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_72
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 112
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b8614e55cab4d54abbe80c0f57e8fd
+      internalID: -7056232676230117577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_73
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 16
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e162a12d15a054b279231f7454f0efae
+      internalID: 6682290186396365000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_74
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 18
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3848910b67d4b4f28ab7817de5fa61eb
+      internalID: 2350950205097075562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_75
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 14
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12cfbd3b0ca14784bba5d262fca3ffe
+      internalID: 6687307132558334300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_76
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 18
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a546330f1eb374b4b909def4172b5fee
+      internalID: 92849861791998560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_77
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 12
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a815fb4408b7848acac430be75a1abcc
+      internalID: 2737853780408994684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: candy_crush_saga__p_by_mcsdr_salem_d6orz86-pre_78
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 12
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751a6ce97801540f89f602748e04392c
+      internalID: 890566715540142934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8d5eb78eaba354c6fad10bebfa0a07c4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

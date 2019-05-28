@@ -1,0 +1,950 @@
+fileFormatVersion: 2
+guid: 7bf9c1e095842438ab79e158aa1ffb5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4646310600979662912
+    second: Mobile - Candy Crush Saga - HUD_0
+  - first:
+      213: 4754408036544607110
+    second: Mobile - Candy Crush Saga - HUD_1
+  - first:
+      213: -7109487812674860469
+    second: Mobile - Candy Crush Saga - HUD_2
+  - first:
+      213: -6125801873160018302
+    second: Mobile - Candy Crush Saga - HUD_3
+  - first:
+      213: -1341308029854421891
+    second: Mobile - Candy Crush Saga - HUD_4
+  - first:
+      213: -3965470259574653116
+    second: Mobile - Candy Crush Saga - HUD_5
+  - first:
+      213: -2181250313255064794
+    second: Mobile - Candy Crush Saga - HUD_6
+  - first:
+      213: 5996828041769368077
+    second: Mobile - Candy Crush Saga - HUD_7
+  - first:
+      213: 4349023613214925839
+    second: Mobile - Candy Crush Saga - HUD_8
+  - first:
+      213: 1655267313786788417
+    second: Mobile - Candy Crush Saga - HUD_9
+  - first:
+      213: -5077270842111424671
+    second: Mobile - Candy Crush Saga - HUD_10
+  - first:
+      213: -5332963224726051459
+    second: Mobile - Candy Crush Saga - HUD_11
+  - first:
+      213: -7666919795897819775
+    second: Mobile - Candy Crush Saga - HUD_12
+  - first:
+      213: -4212697958627724297
+    second: Mobile - Candy Crush Saga - HUD_13
+  - first:
+      213: 2633620366778761780
+    second: Mobile - Candy Crush Saga - HUD_14
+  - first:
+      213: 3284526093331725014
+    second: Mobile - Candy Crush Saga - HUD_15
+  - first:
+      213: 5968809859331961945
+    second: Mobile - Candy Crush Saga - HUD_16
+  - first:
+      213: -4138434971620652029
+    second: Mobile - Candy Crush Saga - HUD_17
+  - first:
+      213: 7942537091958674150
+    second: Mobile - Candy Crush Saga - HUD_18
+  - first:
+      213: -2342789354091377379
+    second: Mobile - Candy Crush Saga - HUD_19
+  - first:
+      213: 6802799089363556353
+    second: Mobile - Candy Crush Saga - HUD_20
+  - first:
+      213: -1084048128943013447
+    second: Mobile - Candy Crush Saga - HUD_21
+  - first:
+      213: 413686633058512839
+    second: Mobile - Candy Crush Saga - HUD_22
+  - first:
+      213: -8484866893966932951
+    second: Mobile - Candy Crush Saga - HUD_23
+  - first:
+      213: -3891236155273920236
+    second: Mobile - Candy Crush Saga - HUD_24
+  - first:
+      213: 6658150209264498913
+    second: Mobile - Candy Crush Saga - HUD_25
+  - first:
+      213: -3519233050432540155
+    second: Mobile - Candy Crush Saga - HUD_26
+  - first:
+      213: -8790784631419847811
+    second: Mobile - Candy Crush Saga - HUD_27
+  - first:
+      213: 4086485557729802358
+    second: Mobile - Candy Crush Saga - HUD_28
+  - first:
+      213: 3208691705741464435
+    second: Mobile - Candy Crush Saga - HUD_29
+  - first:
+      213: 2507132663314783195
+    second: Mobile - Candy Crush Saga - HUD_30
+  - first:
+      213: -8765495356495250791
+    second: Mobile - Candy Crush Saga - HUD_31
+  - first:
+      213: 2929303373532870604
+    second: Mobile - Candy Crush Saga - HUD_32
+  - first:
+      213: -1195104251733064756
+    second: Mobile - Candy Crush Saga - HUD_33
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 937
+        width: 1024
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead4cac69386e4ff8a1be611a6659add
+      internalID: 4646310600979662912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 108
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82d08ff2b7cb471c9cd6ea0d7079d4d
+      internalID: 4754408036544607110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 778
+        width: 312
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8649dc1a1a64872b611f3153630e57
+      internalID: -7109487812674860469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_3
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 762
+        width: 409
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63b114a5bfe54b1cb140502c1483735
+      internalID: -6125801873160018302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_4
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 817
+        width: 125
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3604a255b27344bd9f75255bb03380b
+      internalID: -1341308029854421891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_5
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 887
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f398491dc792431eb4300a3c03009bc
+      internalID: -3965470259574653116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_6
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 837
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f14e06226ca4a06b2bb5707f730e25
+      internalID: -2181250313255064794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_7
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 698
+        width: 125
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1300e00bfeef4f789051ea80ae41453
+      internalID: 5996828041769368077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_8
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 795
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b249cdb68acde49c299f2835c1c0f5c4
+      internalID: 4349023613214925839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 623
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107cc004862b440a6aefccaa4bca5e63
+      internalID: 1655267313786788417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_10
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 660
+        width: 128
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea77eccf49957491b9f159557623d743
+      internalID: -5077270842111424671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_11
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 641
+        width: 124
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d655b8b59608413d87a13407e3f1ab5
+      internalID: -5332963224726051459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_12
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 580
+        width: 283
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b2a469a1c7541b3aefa91a378a5c34
+      internalID: -7666919795897819775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_13
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 752
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4d345d2ca6c428aa7a18da32933c16
+      internalID: -4212697958627724297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_14
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 581
+        width: 125
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d9b67ed136b45d58c12fd3744a477d
+      internalID: 2633620366778761780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_15
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 638
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275f75f0ebff74d9181201552d37c65d
+      internalID: 3284526093331725014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 440
+        width: 379
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16216dc22efa0494dbff3add41da1d13
+      internalID: 5968809859331961945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_17
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 578
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa62ada2d285a4485bccf640a146dfca
+      internalID: -4138434971620652029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_18
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 463
+        width: 233
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b1bfa23afd24ca7b51965efd58a7be
+      internalID: 7942537091958674150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_19
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 487
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45eeb6e5d03e945d295a1aff400aaeb5
+      internalID: -2342789354091377379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_20
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 465
+        width: 125
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2972214a632f54dcfb1f0e6011362dc9
+      internalID: 6802799089363556353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_21
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 522
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cccfff797b149e2addd78754ee10e2
+      internalID: -1084048128943013447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_22
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 419
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1d92a2cd1894ed0ab8a1ae8a3a6f08
+      internalID: 413686633058512839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_23
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 311
+        width: 200
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ea0ee8027c640c4a3dfff34659e23a
+      internalID: -8484866893966932951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 281
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ce2c8d3853a41078870a71b6f30c4d
+      internalID: -3891236155273920236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_25
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 318
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9322a2f774ae44694803bed0a0e89e62
+      internalID: 6658150209264498913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_26
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 323
+        width: 107
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d2ea91af374431099fe4da767413c5
+      internalID: -3519233050432540155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_27
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 191
+        width: 124
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b73648626ea456f9e45a3220515200
+      internalID: -8790784631419847811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_28
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 243
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c9aef968d07447cb07c93736c76919
+      internalID: 4086485557729802358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 139
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e49006851ad48cfb1c8b04fd1ef4e3
+      internalID: 3208691705741464435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_30
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 25
+        width: 124
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b223b7cc333ac43fdb6de1914e1c5e74
+      internalID: 2507132663314783195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_31
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 30
+        width: 159
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685d9d8143aae4737807f887eeb93eab
+      internalID: -8765495356495250791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_32
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 5
+        width: 99
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f71c3374d134916a1be69c8fd8ca48
+      internalID: 2929303373532870604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - HUD_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 83
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaecda3dcdf7462c82595f3b7255767
+      internalID: -1195104251733064756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a19ceae840c4e4785b3e7c2337b04de5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
